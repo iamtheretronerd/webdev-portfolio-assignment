@@ -785,8 +785,8 @@ nav {
 
   .experience-box {
     width: calc(100% - 80px);
-    margin-left: 60px !important;
-    margin-right: 0 !important;
+    margin-left: 60px;
+    margin-right: 0;
   }
 
   .experience-box:nth-child(odd),
@@ -795,13 +795,13 @@ nav {
   }
 
   .experience-box::before {
-    left: -50px !important;
-    right: auto !important;
+    left: -50px;
+    right: auto;
   }
 
   .experience-box::after {
-    left: -30px !important;
-    right: auto !important;
+    left: -30px;
+    right: auto;
     width: 20px;
   }
 
@@ -893,18 +893,18 @@ nav {
 
   .experience-box {
     width: calc(100% - 60px);
-    margin-left: 50px !important;
+    margin-left: 50px;
     padding: 25px;
   }
 
   .experience-box::before {
-    left: -40px !important;
+    left: -40px;
     width: 16px;
     height: 16px;
   }
 
   .experience-box::after {
-    left: -20px !important;
+    left: -20px;
     width: 15px;
   }
 }
