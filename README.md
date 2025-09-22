@@ -36,7 +36,7 @@ Key features:
 
 ## Presentation Link
 
-[Powerpoint](./submissions/presentation.png)
+[Powerpoint](./submissions/presentation.pptx)
 
 ---
 
