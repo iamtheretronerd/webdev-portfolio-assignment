@@ -70,7 +70,7 @@ Key features:
 | Creative Original Component                                       | Parallax hero section + animated project grid                                                                  |
 | CSS / JS / Images Organized in Folders                            | ✔ ([/css](./css/), [/js](./js/), [/img](./img/))                                                              |
 | Meta Information (author, description, icon)                      | ✔ (Check `<head>` of all pages)                                                                               |
-| Original JS Functionality (>5 LOC)                                | [main.js](./js/main.js) — Data loaded and displayed from JSON pages. Parallax control and mouse scroll effects |
+| Original JS Functionality                                 | [main.js](./js/main.js) — Data loaded and displayed from JSON pages. Parallax control and mouse scroll effects |
 | Formatted with Prettier                                           | ✔ (`npm run format` used before submission)                                                                   |
 | W3C Compliant                                                     | ✔ (Validated at [validator.w3.org](https://validator.w3.org/))                                                |
 | ESLint Clean                                                      | ✔ (`npm run lint` → 0 errors)                                                                                 |
