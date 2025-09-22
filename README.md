@@ -36,7 +36,7 @@ Key features:
 
 ## Presentation Link
 
-[Powerpoint](./submissions/presentation.pptx)
+[Powerpoint](https://docs.google.com/presentation/d/1ymRFuoSfOCDvY3wGYOEHRHNAR8olaLGQh1wlXMfCBn0/edit?usp=sharing)
 
 ---
 
