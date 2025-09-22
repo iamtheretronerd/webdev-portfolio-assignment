@@ -83,7 +83,7 @@ Key features:
 | README (author, class, objective, screenshot, build)              | ✔ (this file)                                                                                                 |
 | package.json with Dependencies                                    | [package.json](./package.json)                                                                                 |
 | MIT License                                                       | [LICENSE](./LICENSE)                                                                                           |
-| Short Narrated Video                                              | [Watch Here](https://your-public-video-link)                                                                   |
+| Short Narrated Video                                              | [Watch Here](https://youtu.be/PmONKyX-Sqw)                                                                   |
 | Google Form Submission                                            | ✔ (Thumbnail + links verified)                                                                                |
 | GenAI Usage Disclosure                                            | See section below                                                                                              |
 
