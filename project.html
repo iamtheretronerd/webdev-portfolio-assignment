@@ -1,0 +1,124 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title id="page-title">Project Details - Hemang Murugan</title>
+    <meta name="title" content="Project Details - Hemang Murugan" />
+    <meta
+      name="description"
+      content="Detailed view of creative web development projects by Hemang Murugan"
+    />
+    <meta
+      name="keywords"
+      content="web developer, frontend, React, JavaScript, HTML, CSS, web design, Boston, MA"
+    />
+    <meta name="author" content="Hemang Murugan" />
+    <meta name="language" content="English" />
+
+    <link rel="icon" type="image/x-icon" href="/assets/favicon.ico" />
+
+    <link rel="shortcut icon" href="/assets/favicon.ico" />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap"
+      rel="stylesheet"
+    />
+
+    <link href="/css/project.css" rel="stylesheet" />
+  </head>
+  <body>
+    <nav>
+      <div class="nav-container">
+        <a href="/" class="nav-back">Back to Home</a>
+        <div class="nav-links">
+          <a href="/#home" class="nav-item">Home</a>
+          <a href="/#about" class="nav-item">About</a>
+          <a href="/#experience" class="nav-item">Experience</a>
+          <a href="/#projects" class="nav-item">Projects</a>
+          <a href="/#skills" class="nav-item">Skills</a>
+        </div>
+      </div>
+    </nav>
+
+    <div id="loading" class="loading">
+      <div class="loading-spinner"></div>
+      <p>Loading project details</p>
+    </div>
+
+    <div id="error" class="error" style="display: none">
+      <div class="error-container">
+        <h1>Project Not Found</h1>
+        <p>The project you're looking for doesn't exist or has been moved.</p>
+        <a href="/" class="cta-button">Back to Home</a>
+      </div>
+    </div>
+
+    <main id="main-content" style="display: none">
+      <section class="project-hero" id="project-hero-bg">
+        <div class="project-hero-content">
+          <h2 id="project-title" class="project-title">Loading</h2>
+          <div
+            id="website-button-container"
+            class="website-button-container"
+            style="display: none"
+          >
+            <a
+              id="website-button"
+              href="#"
+              target="_blank"
+              rel="noopener noreferrer"
+              class="website-button"
+            >
+              WEBSITE
+            </a>
+          </div>
+        </div>
+      </section>
+
+      <section class="project-details">
+        <div class="project-container">
+          <div class="project-content">
+            <div class="project-info">
+              <h2>Project Overview</h2>
+              <p id="project-description" class="project-description">
+                Loading project description
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section
+        id="additional-images"
+        class="additional-images"
+        style="display: none"
+      >
+        <div class="project-container">
+          <h2>Project Gallery</h2>
+          <div class="images-grid">
+            <div id="image2-container" class="image-item" style="display: none">
+              <img
+                id="additional-image2"
+                src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                alt="Additional project view"
+                class="additional-img"
+              />
+            </div>
+            <div id="image3-container" class="image-item" style="display: none">
+              <img
+                id="additional-image3"
+                src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+                alt="Additional project view"
+                class="additional-img"
+              />
+            </div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <script type="module" src="/js/project.js"></script>
+  </body>
+</html>

@@ -1,0 +1,17 @@
+[
+  {
+    "company": "Morbium Technologies",
+    "date": "Sep 2022 - Nov 2024",
+    "description": "Led development of enterprise software solutions for 8+ client projects, managing a team of 3 developers and delivering applications deployed on 10,000+ devices across multiple industries. Architected and developed an AI-powered vending machine platform for Cristal Tea using React Native, Node.js, and PostgreSQL, including a dynamic menu system and predictive inventory optimization. Delivered a full-stack solution for Adisil’s smart combination ovens with React Native HMI, mobile application, and AWS backend, enabling remote recipe management and supporting 300+ deployed units."
+  },
+  {
+    "company": "Innotek Automation",
+    "date": "Dec 2021 - Sep 2022",
+    "description": "Developed AI-powered vending machine solutions using React Native and Node.js, integrating IoT for machine state storage and telemetry. Built scalable backend systems with MongoDB and Azure, optimizing server performance and reducing infrastructure costs through efficient database design and API optimization."
+  },
+  {
+    "company": "Hyperwork",
+    "date": "Aug 2021 - Nov 2021",
+    "description": "Designed and developed ReflectSecurity’s corporate website using React.js, Node.js, and MongoDB. Implemented responsive design principles and modern UI/UX patterns that enhanced user engagement and brand presence."
+  }
+]

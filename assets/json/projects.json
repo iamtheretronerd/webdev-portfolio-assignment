@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "title": "Washbot",
+    "description": "Real-time hand hygiene compliance system for clinical settings.",
+    "detailedDescription": "Washbot combines RFID-based patient visitation tracking with VGG19-powered computer vision to enforce WHO hand hygiene standards in real time. Physician visits are logged via RFID at each patient cot; subsequent handwashing technique is analyzed to verify compliance. Real-time feedback is displayed on badges, and all hygiene events are persisted for auditing and analytics. The inference pipeline runs on Amazon SageMaker to ensure scalability and low latency. The system secured $25,000 in funding and was recognized by multiple hospitals and media outlets.",
+    "techStack": [
+      "React Native",
+      "Computer Vision (VGG19)",
+      "Amazon SageMaker",
+      "Node.js",
+      "MongoDB",
+      "RFID"
+    ],
+    "image": "/assets/images/projects/hero/washbot.png",
+    "image2": "",
+    "image3": "",
+    "link": ""
+  },
+  {
+    "id": 2,
+    "title": "GameTales",
+    "description": "AI-powered engine that converts stories into interactive games.",
+    "detailedDescription": "GameTales is an AI-driven platform that transforms novels, movies, or original stories into interactive, text-based video games with dynamic visuals. Using natural language processing and the OpenAI API, the system parses narrative input to generate game mechanics, branching choices, and immersive environments. Players can make meaningful decisions that shape the story’s progression. It uses a React frontend, Node.js backend, and PostgreSQL persistence.",
+    "techStack": ["React", "Node.js", "PostgreSQL", "OpenAI API", "NLP"],
+    "image": "/assets/images/projects/hero/gametales.png",
+    "image2": "",
+    "image3": "",
+    "link": "https://game-tales.vercel.app"
+  },
+  {
+    "id": 3,
+    "title": "Soldier Strap",
+    "description": "Mesh-enabled LoRa vital monitoring system for disconnected military deployments.",
+    "detailedDescription": "Soldier Strap is a field-deployable system that monitors soldiers’ vital signs (heart rate, SpO2, body temperature) and location, relaying data over a resilient LoRa mesh network without internet connectivity. Sensor data is captured via MAX30100 and MLX90614, aggregated, and forwarded through the mesh to uplink nodes, then ingested into AWS for real-time dashboards, alerts, and historical tracking. A React Native mobile app provides situational awareness to medics and commanders.",
+    "techStack": [
+      "React Native",
+      "LoRa Mesh Networking",
+      "GPS",
+      "MAX30100",
+      "MLX90614",
+      "AWS"
+    ],
+    "image": "/assets/images/projects/hero/soldierstrap.png",
+    "image2": "",
+    "image3": "",
+    "link": ""
+  },
+  {
+    "id": 4,
+    "title": "Amber",
+    "description": "AI-powered wearable for offline emergency detection and alerting.",
+    "detailedDescription": "Amber pairs an AI-powered wearable with a companion React Native app to provide emergency detection even in disconnected environments. It uses NLU and RNN+HMM models to detect vocal distress cues. When a threat is detected, it broadcasts GPS coordinates via LoRaWAN, forming a self-healing mesh network if direct transmission fails. The backend (Node.js + MongoDB) manages devices and users, enabling scalable deployment.",
+    "techStack": [
+      "React Native",
+      "NLU",
+      "RNN",
+      "HMM",
+      "LoRaWAN",
+      "Bluetooth LE",
+      "Node.js",
+      "MongoDB"
+    ],
+    "image": "/assets/images/projects/hero/amber.png",
+    "image2": "",
+    "image3": "",
+    "link": ""
+  },
+  {
+    "id": 5,
+    "title": "AI-Powered E-Learning Platform",
+    "description": "Real-time virtual classroom with engagement analytics and automated transcription.",
+    "detailedDescription": "This project enhances online classrooms by analyzing student engagement using computer vision (eye-tracking, head posture) and provides instructors with a live dashboard of participation metrics. A speech-to-text pipeline generates lecture transcripts in real time, which are automatically formatted and distributed to students via Twilio SMS after class. Built with a React.js frontend, Python + Node.js backend, and WebRTC for low-latency streaming.",
+    "techStack": [
+      "React.js",
+      "Python",
+      "TensorFlow",
+      "OpenCV",
+      "Node.js",
+      "WebRTC",
+      "Speech-to-Text APIs",
+      "Twilio API"
+    ],
+    "image": "/assets/images/projects/hero/elearn.png",
+    "image2": "",
+    "image3": "",
+    "link": ""
+  },
+  {
+    "id": 6,
+    "title": "Milano Coffee - IoT Vending Platform",
+    "description": "Cloud-based platform for real-time monitoring of commercial coffee vending machines.",
+    "detailedDescription": "Built a full-stack IoT solution for Milano Coffee’s 50+ machine fleet, enabling real-time monitoring of drink dispensing, cleaning cycles, and machine health. The Node.js backend processes tens of thousands of daily transactions stored in Firebase. The React.js dashboard provides data visualization, filtering, and report generation using Chart.js. The solution shifted maintenance from reactive to proactive and improved operational efficiency.",
+    "techStack": [
+      "React.js",
+      "Node.js",
+      "Express.js",
+      "Firebase",
+      "Chart.js",
+      "REST API"
+    ],
+    "image": "/assets/images/projects/hero/milanocoffee.png",
+    "image2": "",
+    "image3": "",
+    "link": ""
+  }
+]
