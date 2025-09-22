@@ -53,7 +53,7 @@ Key features:
    ```
 3. Run a local development server
    ```bash
-   npx lite-server
+   npx http-server
    ```
 4. Open `http://localhost:3000` in your browser.
 
