@@ -120,5 +120,4 @@ This project contains a mix of original work, AI-generated assets, and third-par
   🔗 **[Credits Page](https://hemangmurugan.netlify.app/credits.html)**
 
 All AI-generated code and images were manually reviewed, edited, and optimized before inclusion to ensure compliance with accessibility and project requirements.
-#   w e b d e v - p o r t f o l i o - a s s i g n m e n t  
- 
+#
