@@ -24,8 +24,8 @@
     "detailedDescription": "GameTales is an AI-driven platform that transforms novels, movies, or original stories into interactive, text-based video games with dynamic visuals. Using natural language processing and the OpenAI API, the system parses narrative input to generate game mechanics, branching choices, and immersive environments. Players can make meaningful decisions that shape the story’s progression. It uses a React frontend, Node.js backend, and PostgreSQL persistence.",
     "techStack": ["React", "Node.js", "PostgreSQL", "OpenAI API", "NLP"],
     "image": "/assets/images/projects/hero/gametales.png",
-    "image2": "",
-    "image3": "",
+    "image2": "/assets/images/projects/gallery/gametales1.png",
+    "image3": "/assets/images/projects/gallery/gametales2.png",
     "link": "https://game-tales.vercel.app"
   },
   {
