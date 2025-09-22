@@ -63,7 +63,7 @@ Key features:
 
 | **Criteria**                                                      | **Link / Verification**                                                                                        |
 | ----------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| Design Document (Project Description, Personas, Stories, Mockups) | [View PDF](./submissions/design-document.pdf)                                                                  |
+| Design Document (Project Description, Personas, Stories, Mockups) | [View PDF](./submissions/Design-Document.pdf)                                                                  |
 | Homepage Includes Meaningful Information                          | ✔ (See [index.html](./index.html))                                                                            |
 | Uses ES6 Modules                                                  | ✔ (`type: "module"` in [index.html](./index.html) & [package.json](./package.json))                           |
 | Deployed Publicly                                                 | [Live Site](https://hemangmurugan.netlify.app)                                                                 |
